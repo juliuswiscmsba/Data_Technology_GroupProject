@@ -1,4 +1,4 @@
-Milestone 1: Milestone1_Simple_Read_Sort folder
+#Milestone 1: Milestone1_Simple_Read_Sort folder
 
 server.py: Read tweets from the Twitter API or a file, write tweets to a file
 

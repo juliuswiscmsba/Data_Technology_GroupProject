@@ -1,4 +1,4 @@
-#### Milestone 1: Milestone1_Simple_Read_Sort folder
+#### Milestone 1: Simple Read Sort folder
 
 * server.py: Read tweets from the Twitter API or a file, write tweets to a file
 
@@ -11,7 +11,7 @@
 * word_count.py: Compute frequencies of words and phrases
 
 
-#### Milestone 2: Milestone2_PostgreSQL folder
+#### Milestone 2: PostgreSQL folder
 
 * schema_postgres.sql: SQL Table Schema
 
@@ -28,7 +28,7 @@
 * word_count_postgres.py: Compute frequencies of words and phrases in the current minute
 
 
-#### Milestone 3: Milestone3_Kafka 
+#### Milestone 3: SQL interact with Kafka 
 
 * consumer.py: Kafka consumer file
 
